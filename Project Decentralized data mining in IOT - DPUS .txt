@@ -1,0 +1,608 @@
+Project "Decentralized data mining in IOT"
+
+Introduction
+
+With the advent of the Internet of Things (IOT), data has become one of the most valuable assets owned by an organization. At the same time, data management, storage and processing are becoming increasingly visible and observable processes. Decentralized data mining in IOT using IPFS is an innovative solution to solve this problem. In this whitepaper, we looked at how decentralized data mining in IOT works, how one can invest in this project through a cryptocurrency project.
+
+What is decentralized data mining in IOT?
+
+Decentralized data mining in IOT is a process in which data is collected from IOT devices, present and processed by decentralized nodes that operate based on security technologies. These devices include various functions including data collection, storage, processing and transmission. Bank data is stored on the IPFS network, which provides secure, reliable and decentralized data storage.
+
+How it works?
+
+In the process of decentralized data mining, IOT devices collect data, which is then transmitted to decentralized nodes running the technology. These nodes process the data and store it on the IPFS network. Network access, network access and process openness.
+
+Advantages of decentralized data mining in IOT
+
+Decentralized data mining in IOT offers a number of advantages over using data management methods:
+Data security and privacy. Data stored on an IPFS network is protected by cryptographic methods, requiring a high level of security and confidentiality.
+
+Decentralization. Data stored in the IPFS network is not found on a centralized server, which requires high reliability and fault tolerance of the system. In addition, decentralization allows you to increase the speed of data transfer.
+
+Openness.
+The data stored in the IPFS network is distributed to all users of the networks, which is used and openness of the process. This reduces data management and increases trust in the system.
+
+Economic efficiency.
+Decentralized data mining in IOT can reduce the costs of data storage, processing and transmission. In addition, through the use of settlement technologies, the number of intermediaries can be reduced and the burden on growth can be reduced.
+
+Controllability solution.
+Decentralized data mining in IOT, based on discovery technology, allows for increased project manageability. Each network participant has the opportunity to take part in the management system, vote for changes and make decisions, which increases the democracy of the process.
+
+Attracting investments through cryptocurrency.
+To attract investment in a decentralized data mining project in IOT, you can use a cryptocurrency project. This is the likely acquisition of project tokens and its acquisition, which provides them with additional opportunities for profit.
+
+One of the major projects of decentralized data mining in the Internet of Things has the potential to solve pressing problems in the field of data collection and processing on the Internet. In particular, such systems can help improve data quality and accuracy, reduce storage and transmission costs, and increase confidence in the system.
+
+However, to implement the project, a combination of a number of technical and organizational mechanisms is necessary. In particular, the development of special protocols and tablets for a promising IOT system with verification and IPFS technologies is required. In addition, it is necessary to attract qualified specialists to develop, test and implement the system.
+
+To attract investment in a project of decentralized data mining in IOT through cryptocurrency, it is necessary to develop your own project token, which will be issued on the database. This will allow investors to purchase project tokens and take advantage of its acquisition, which will provide them with additional opportunities to earn income from the growth of token income.
+
+In conclusion, the decentralized data mining project in IOT based on discovery technologies and IPFS has great potential to effectively solve problems in the field of Internet of Things.It can help improve data quality and accuracy, reduce storage and transmission costs, and increase confidence in the system. However, the implementation of the project requires solving technical and organizational issues.
+The decentralized data mining project in IOT can become part of the tools for the development of the Internet of Things in the future. It can help improve data quality and accuracy, reduce storage and transmission costs, and increase confidence in the system. In addition, the project can attract investment and introduce successful implementation of new technologies into practice.
+
+For the successful implementation of the project, it is necessary to develop special protocols and standards to ensure the security of IOT systems with security technologies and IPFS. In addition, it is necessary to attract qualified specialists to develop, test and implement the system.
+However, it is necessary to accept the risks associated with the use of cryptocurrency, new technologies and IPFS. In addition, it is necessary to take part in competitive projects and conditions of instability. Therefore, before implementing a project, it is necessary to conduct a detailed risk analysis and develop risk management.
+
+Overall, the IOT decentralized data mining project based on discovery technology and IPFS represents a promising direction for the development of the Internet of Things. It can help improve data quality and accuracy and reduce data storage and storage costs.
+
+
+Technical document.
+
+
+The process of the protocol in the application: 
+
+
+When you produce a file in IPFS, your file is split into smaller fragments, cryptographically hashed and gets a fingerprint, with a unique accumulation identifier (CID). This CID acts as a permanent record of your file as it currently exists. When others discover a search for your file, they investigate their peers who is storing the contents on which the CID file is located. When they view or download your file, they cache and become another provider of your content until their cache is cleared. A node can pin content to save (and exclude) it forever, or abandon exports that it has not used for a long time to save space. This means that each node in the network stores only the content it is interested in, and also uses indexing information that helps to bring which node is stored. If you add a new version of your file to IPFS, its cryptographic hash will be different, and therefore it will receive a new CID. This means that files stored in IPFS are resistant to tampering and censorship — any changes to the file do not overwrite the original, and shared file fragments can be reused to minimize storage costs.
+
+Rust API for IPFS what happens to the data inside this bundle
+
+The Rust API for IPFS is a library that allows you to use IPFS functionality in applications in the Rust language. IPFS is a protocol for distributed file storage and sharing on the Internet.
+
+When you use the Rust API for IPFS, you can upload and receive files via IPFS, share files with other users, and more.
+
+Within the Rust API bundle for IPFS, data is transmitted over the IPFS network in the form of blocks that can be grouped into multidimensional tree objects. Blocks have unique identifiers that are used to detect and retrieve them. The data inside the blocks is stored as bit strings, which allows efficient use of storage.
+IPFS uses distributed hash tables to index blocks of data, which allows you to quickly and efficiently find the desired block in the IPFS network. Each block has its own unique hash, which is calculated based on its contents. This ensures the uniqueness of the blocks and the ability to verify the integrity of the data.
+
+In general, the Rust API for IPFS allows you to efficiently and securely transfer and store data on the IPFS network, which can be useful for various applications that require distributed file storage and sharing.
+
+IPFS uses distributed hash tables to index blocks of data, which allows you to quickly and efficiently find the desired block in the IPFS network. Each block has its own unique hash, which is calculated based on its contents, is it possible to assign a reward in cryptocurrency for this operation, for the ability to verify the integrity of data inside the block, data of a specific user 
+
+In IPFS, each block has its own unique hash, which is calculated based on its contents and does not depend on a specific user. 
+The block integrity check is performed automatically and does not require additional actions from users.
+However, the reward in cryptocurrency may be associated with other actions related to the use of IPFS, for example, providing resources for storing and distributing data on the network, maintaining the health of nodes, etc.
+There are various reward mechanisms in IPFS, such as mining or staking, which may be related to the overall operation of the node and its contribution to the network. Cryptocurrency can also be used as a means of payment for access to certain IPFS-related resources, for example, for using additional storage or broadband network access.
+
+IPFS does not use mining in the traditional sense of the term. However, there are mechanisms to reward users for their contribution to the network and data storage/dissemination. 
+For example, IPFS can be used as the basis for decentralized applications that provide the opportunity to receive rewards for certain actions, such as downloading or storing data.
+If we consider a possible algorithm for mining data to receive rewards in cryptocurrency, then this may be due to the provision of resources for storing and distributing data on the IPFS network. For example, a user can provide additional resources for storing data on the network and receive a reward in cryptocurrency for this additional work.
+
+The algorithm may look like this:
+
+The user uploads data to the IPFS network, receiving a unique hash code for each block of data.
+A contract is being created in the blockchain network, which provides the opportunity to receive remuneration for providing resources for storing data in IPFS.
+The user registers in the contract and provides his wallet address to receive the reward.
+The user launches a mining program that searches for free nodes in the IPFS network and provides them with additional resources for data storage.
+The contract monitors the user's work and pays a reward in cryptocurrency for providing additional resources for data storage.
+Thus, the user receives a reward for his contribution to the operation of the IPFS network and the provision of data storage resources.
+
+Helium is a decentralized IoT network that uses blockchain and radio network technology to provide wireless internet connectivity for IoT devices. 
+The Helium project uses its own HNT cryptocurrency, which is issued as a reward for mining and confirming transactions on the network.
+
+To combine this algorithm with the Helium project, you can use IPFS capabilities to store and transfer data from IoT devices. Each device connected to the Helium network can act as an IPFS node and store and transfer data with other devices. In this case, each data block will have its own unique hash, which will be used to verify the integrity of the data.
+
+The data mining algorithm within the framework of the Helium project can be implemented as follows:
+
+An IoT device connected to the Helium network generates a block of data that needs to be stored on the IPFS network.
+The device performs a data hashing operation and calculates a unique block hash.
+The device sends a block of data and its hash to the Helium network.
+Helium nodes connected to the network check the hash of the block for compliance with the unique hash calculated by the device.
+If the verification is successful, the device that generated the data block receives a reward in the HNT cryptocurrency.
+Thus, this algorithm can be used in the Helium network to ensure safe and efficient storage and transmission of IoT data. The HNT cryptocurrency can act as an incentive for IoT devices to actively participate in the network and ensure its operability.
+
+Rust API for IPFS what happens to the data inside this Helium bundle  
+
+
+The Rust API for IPFS is a Rust library that allows you to interact with the IPFS network. This library allows users to add, receive and update files on the IPFS network.
+
+The Helium project uses blockchain and IOT technology to create a decentralized network of IoT devices. The data received from these devices is used for mining the HNT cryptocurrency.
+
+If you combine the Rust API for IPFS with the Helium project, it can provide users with the ability to store data from IoT devices in IPFS, and then use this data for mining HNT. This can improve network performance, as data will be easier to access and manage, as well as provide a higher level of security and reliability through decentralization.
+
+If you combine the Rust API for IPFS with the Helium project, then this can provide users with the opportunity to store data from IoT devices in IPFS, assigning their own CID to each device and manufacturer, the more you use this cID data for HNT mining, when the IOT device is used, the more you use, the greater the reward from mining and vice versa
+
+
+a smart contract for the Solidity API and the Rust API for IPFS with the Helium project, then this can provide users with the opportunity to store data from IoT devices in IPFS, assigning their own CID to each device and manufacturer, the more they use this cID data for HNT mining, when the IOT device is used, the more they use, the greater the reward from mining and vice versa
+
+
+an example of a Solidity smart contract for a Helium project with IPFS and Rust API integration:
+
+csharp
+Copy code
+pragma solidity ^0.8.0;
+
+import "ipfs-core/interface-Ipfs-core.sol";
+
+contract HeliumIOT {
+    
+    Ipfs ipfs;
+    
+    struct Device {
+        uint deviceId;
+        string manufacturer;
+        string model;
+        address owner;
+        bytes32 ipfsCid;
+    }
+    
+    mapping(uint => Device) public devices;
+    
+    uint public deviceCount = 0;
+    
+    event DeviceCreated(uint indexed deviceId, string indexed manufacturer, string indexed model, address owner, bytes32 ipfsCid);
+    
+    constructor(Ipfs _ipfs) {
+        ipfs = _ipfs;
+    }
+    
+    function createDevice(string memory _manufacturer, string memory _model, bytes memory _data) public returns (uint) {
+        deviceCount++;
+        uint deviceId = deviceCount;
+        
+        // Store the data in IPFS
+        (bytes32 cid,) = ipfs.add(_data);
+        
+        // Add the device to the mapping
+        devices[deviceId] = Device(deviceId, _manufacturer, _model, msg.sender, cid);
+        
+        emit DeviceCreated(deviceId, _manufacturer, _model, msg.sender, cid);
+        
+        return deviceId;
+    }
+    
+    function getDeviceById(uint _deviceId) public view returns (string memory, string memory, address, bytes32) {
+        return (devices[_deviceId].manufacturer, devices[_deviceId].model, devices[_deviceId].owner, devices[_deviceId].ipfsCid);
+    }
+    
+    // Function to mine HNT using the device's IPFS CID
+    function mineHNT(uint _deviceId) public {
+        bytes32 cid = devices[_deviceId].ipfsCid;
+        
+        // Use Rust API to mine HNT
+        // ...
+    }
+}
+
+The contract allows users to create new iOS devices and store data about these devices in IPFS using the Rust API to interact with IPFS. Each device has its own CID, which is assigned to the manufacturer and the device. Users can use these CIDs to mine HNT when the device is in use. When the device is in use, the contract allows you to call the minehunt function, which uses the Rest API to mine HNT based on the device's CID.
+
+csharp
+Copy code
+ipfs add <path_to_contract_file>
+Here <path_to_contract_file> is the path to the Solidity smart contract file on your computer. The command adds the contract file to EPS and returns the CID (Content ID), which can be used to access the contract in IPFS.
+
+You can call this command on the command line or use the IPFW API to upload the contract to IPFS. By uploading a contract to IPFS, you can use its CID to call contract methods from any node connected to IPFS.
+
+For example, to call the CreateDevice method from a smart contract, you can use a CFD contract and call the call function via the IPFS API:
+
+
+javascript
+Copy code
+const IPFS = require('ipfs-core')
+
+async function createDevice(ipfsCid, manufacturer, model, data) {
+  const ipfs = await IPFS.create()
+  const contract = await ipfs.dag.get(ipfsCid)
+  const abi = contract.value.abi
+  const address = contract.value.address
+  const provider = new ethers.providers.Web3Provider(ipfs.provider)
+
+  const heliumIOT = new ethers.Contract(address, abi, provider.getSigner())
+
+  const tx = await heliumIOT.createDevice(manufacturer, model, data)
+  console.log(tx.hash)
+}
+
+Here, ipfsCid is the CFD of the contract, manufacturer and model are the parameters for the CreateDevice method, and data is the data that you want to save to IPFS.
+
+Please note that to call the smart contract method in IPFS, you need to use a special Web3Provider provider that uses IPFS as a transport for sending transactions.
+
+
+a smart contract for the application of a special Web 3 Provider provider that uses IPS as a transport for sending transactions
+ an example of a smart contract that uses a special Web 3 Provider with IPFW as a transport for sending transactions:
+
+kotlin
+Copy code
+pragma solidity ^0.8.0;
+
+import "@openzeppelin/contracts/access/Ownable.sol";
+import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
+import "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol";
+import "@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol";
+
+interface IWeb3Provider {
+    function sendTransaction(bytes calldata data) external returns (bytes memory);
+}
+
+contract MyContract is Ownable {
+    IERC20 public token;
+    IUniswapV2Router02 public router;
+    IUniswapV2Pair public pair;
+    address public lpToken;
+    IWeb3Provider public web3Provider;
+
+    constructor(address _token, address _router, address _lpToken, address _web3Provider) {
+        token = IERC20(_token);
+        router = IUniswapV2Router02(_router);
+        lpToken = _lpToken;
+        pair = IUniswapV2Pair(lpToken);
+        web3Provider = IWeb3Provider(_web3Provider);
+    }
+
+    function setWeb3Provider(address _web3Provider) public onlyOwner {
+        web3Provider = IWeb3Provider(_web3Provider);
+    }
+
+    function buyTokens(uint256 amount) external {
+        // Swap ETH for tokens
+        address[] memory path = new address[](2);
+        path[0] = router.WETH();
+        path[1] = address(token);
+        router.swapExactETHForTokens{value: amount}(
+             0,
+             path,
+             address(this),
+             block.timestamp + 3600
+        );
+
+        // Add liquidity
+        uint256 tokenBalance = token.balanceOf(address(this));
+        uint256 ethBalance = address(this).balance;
+        token.approve(address(router), tokenBalance);
+        router.addLiquidityETH{value: ethBalance}(
+            address(token),
+            tokenBalance,
+            0,
+            0,
+            address(this),
+            block.timestamp + 3600
+        );
+
+        // Transfer LP tokens to sender
+        uint256 lpTokenBalance = pair.balanceOf(address(this));
+        pair.transfer(msg.sender, lpTokenBalance);
+
+        // Send transaction via IPFS using Web3Provider
+        bytes memory txData = abi.encodeWithSignature("transfer(address,uint256)", msg.sender, lpTokenBalance);
+        web3Provider.sendTransaction(txData);
+    }
+}
+
+In this contract, the Web 3 Provider is used to send the transaction via IPFW. The buyTokens method first exchanges ETH for tokens, then adds liquidity to Uniswap and transfers LP tokens to the sender. Then it generates transaction data for the transfer of LP tokens and sends them via the Web 3 Provider.
+
+To decode the CID (Ciphertext Input Distance), an algorithm is used that is based on principium maximum likelihood estimation. The basic idea of this algorithm is to find the most likely plaintext sequence that produced the given ciphertext sequence, by calculating the probability of each plaintext sequence given the ciphertext sequence and the encryption algorithm.
+
+The decoding algorithm for CID can be described in the following steps:
+
+1. Initialize the plaintext sequence with a random value.
+2. For each element of the plaintext sequence, calculate the probability of observing the corresponding ciphertext element, given the encryption algorithm and the plaintext element.
+3. Calculate the probability of the entire plaintext sequence, given the ciphertext sequence and the encryption algorithm, by multiplying the probabilities of each individual element.
+4. Compare the probability of the current plaintext sequence with the highest probability found so far.
+5. If the probability of the current plaintext sequence is higher than the highest probability found so far, update the highest probability and the corresponding plaintext sequence.
+6. Repeat steps 2-5 until a stopping criterion is reached, such as a maximum number of iterations or a minimum probability threshold.
+7. Output the final plaintext sequence as the decoded message.
+
+The encryption algorithm used in CID is a substitution-permutation network (SPN), which is a type of neural network that is designed to be difficult to invert. The SPN uses a series of substitution and permutation operations to transform the plaintext sequence into a ciphertext sequence.
+
+To decrypt the ciphertext sequence, the decoding algorithm must invert the SPN to find the original plaintext sequence. This is done by iteratively applying the inverse of the substitution and permutation operations used in the encryption algorithm, and adjusting the plaintext sequence accordingly.
+
+The probability of each plaintext sequence is calculated using a softmax function, which maps the output of the SPN to a probability distribution over the possible plaintext sequences. The softmax function is defined as:
+
+softmax(x) = exp(x) / sum(exp(x))
+
+where x is the output of the SPN, and the sum is taken over all possible plaintext sequences.
+
+The decoding algorithm for CID is a heuristic algorithm that is designed to work well in practice, but it is not guaranteed to find the correct plaintext sequence for all possible ciphertext sequences. In general, the decoding algorithm will be more successful if the ciphertext sequence is well-structured and contains enough information to allow the algorithm to infer the correct plaintext sequence.
+
+use solana_program::{
+    account,
+    contract,
+    event,
+    keychain,
+    program,
+    transaction,
+    types,
+};
+
+const CID_SIZE: usize = 32;
+
+contract MyContract {
+    account private owner;
+    uint public balance;
+    bytes32 public cid;
+
+    event MyEvent(string memory _name, uint _value);
+
+    constructor() {
+        self.owner = msg.sender;
+        self.balance = 0;
+        self.cid = vec![0; CID_SIZE].into();
+    }
+
+    function transfer(uint _amount) public {
+        require(msg.sender == owner, "Only the owner can transfer");
+        require(_amount > 0, "Invalid amount");
+        self.balance += _amount;
+        emit MyEvent("Transfer", _amount);
+    }
+
+    function getBalance() public view returns (uint) {
+        return self.balance;
+    }
+
+    function decodeCID(bytes32 _cid) public view returns (string memory) {
+        require(_cid.len() == CID_SIZE, "Invalid CID length");
+        let mut decoded = vec![0; CID_SIZE];
+        for i in 0..CID_SIZE {
+            decoded[i] = _cid[i] as i32;
+        }
+        return decoded.as_slice();
+    }
+}
+
+{
+    "MultihashResults": [
+        {
+        "Multihash": "EiDVNlzli2ONH3OslRv1Q0BRCKUCsERWs3RbthTVu6Xptg==",
+        "ProviderResults": [
+            {
+            "ContextID": "AXESIAqACNwDTPpjRLuNw0rCwP4z5ge8p2p+mceS0hjDQdBl",
+            "Metadata": "kBKjaFBpZWNlQ0lE2CpYKAABgeIDkiAgjdNAYM8PDCDyhgEIJKlEGElVgqkxlecqZA+2aJrX8CdsVmVyaWZpZWREZWFs9W1GYXN0UmV0cmlldmFs9Q==",
+            "Provider": {
+                "ID": "12D3KooWHbYfcXCUzxCCCkfppiJgvD7eAqhbZTXEMu66EYdqTwCQ",
+                "Addrs": [
+                "/ip4/195.26.70.31/tcp/24001"
+                ]
+            }
+            },
+            {
+            "ContextID": "AXESIIDDfCF2O9gTlTCW1jsS94di679rBaiNW2wYuudllV8n",
+            "Metadata": "kBKjaFBpZWNlQ0lE2CpYKAABgeIDkiAgOpmhnBIQKNzyU6ehjrfzmEA+e++NQ+z5mBjI6C7y1B5sVmVyaWZpZWREZWFs9W1GYXN0UmV0cmlldmFs9Q==",
+            "Provider": {
+                "ID": "12D3KooWDMJSprsuxhjJVnuQQcyibc5GxanUUxpDzHU74rhknqkU",
+                "Addrs": [
+                "/ip4/89.20.96.58/tcp/24001"
+                ]
+            }
+            },
+            {
+            "ContextID": "AXESIBD01Ud5R2aNm17hy5POqaKeNmIzfSNMhnAGzhvNCfK/",
+            "Metadata": "kBKjaFBpZWNlQ0lE2CpYKAABgeIDkiAg1bFuob1/knnbN6PTonjf6wUGeB/qc2hJb4oriOwRjTNsVmVyaWZpZWREZWFs9W1GYXN0UmV0cmlldmFs9Q==",
+            "Provider": {
+                "ID": "12D3KooWDMJSprsuxhjJVnuQQcyibc5GxanUUxpDzHU74rhknqkU",
+                "Addrs": [
+                "/ip4/89.20.96.58/tcp/24001"
+                ]
+            }
+            },
+            {
+            "ContextID": "AXESID1YhQwxum55WMSHXI6EQbtVpnhm7QwGpDPYCm5bjwbr",
+            "Metadata": "kBKjaFBpZWNlQ0lE2CpYKAABgeIDkiAg7H0Gb8ZK4LC8aijKk56XS4diZvoLv9hcDz6iiE0gJhNsVmVyaWZpZWREZWFs9W1GYXN0UmV0cmlldmFs9Q==",
+            "Provider": {
+                "ID": "12D3KooW9yi2xLhXds9HC4x9vRN99mphq6ds8qN2YRf8zks1F32G",
+                "Addrs": [
+                "/ip4/149.5.22.10/tcp/24002"
+                ]
+            }
+            },
+            {
+            "ContextID": "AXESIMGxu6/414seq9d+YrGEwonTcCDwNzookG69eGph7cQK",
+            "Metadata": "kBKjaFBpZWNlQ0lE2CpYKAABgeIDkiAgOpmhnBIQKNzyU6ehjrfzmEA+e++NQ+z5mBjI6C7y1B5sVmVyaWZpZWREZWFs9W1GYXN0UmV0cmlldmFs9Q==",
+            "Provider": {
+                "ID": "12D3KooWM4wsQ3kdd8CDHiVDQthU9JZ9KqsxSdSQT2xj6TAdDth5",
+                "Addrs": [
+                "/ip4/61.38.42.252/tcp/20000"
+                ]
+            }
+            },
+            {
+            "ContextID": "AXESIPM2bykkesWamkYUx5lDVUhDSMnaZ10zi3Fk7+5TBCcC",
+            "Metadata": "kBKjaFBpZWNlQ0lE2CpYKAABgeIDkiAgOpmhnBIQKNzyU6ehjrfzmEA+e++NQ+z5mBjI6C7y1B5sVmVyaWZpZWREZWFs9W1GYXN0UmV0cmlldmFs9Q==",
+            "Provider": {
+                "ID": "12D3KooWLDf6KCzeMv16qPRaJsTLKJ5fR523h65iaYSRNfrQy7eU",
+                "Addrs": [
+                "/ip4/141.138.64.21/tcp/11337",
+                "/ip4/149.6.102.102/tcp/11337"
+                ]
+            }
+            },
+            {
+            "ContextID": "AXESIO50esRu0SvbUfSGOzLTWfIff1S54seFI/PtyDuPNkzZ",
+            "Metadata": "kBKjaFBpZWNlQ0lE2CpYKAABgeIDkiAg+IcjHXCOHHUf8wNiVtnvhYTPwL5Fqnnr7GyOLZp48R5sVmVyaWZpZWREZWFs9W1GYXN0UmV0cmlldmFs9Q==",
+            "Provider": {
+                "ID": "12D3KooWPNbkEgjdBNeaCGpsgCrPRETe4uBZf1ShFXStobdN18ys",
+                "Addrs": [
+                "/ip4/76.219.232.45/tcp/24001"
+                ]
+            }
+            },
+            {
+            "ContextID": "AXESIO50esRu0SvbUfSGOzLTWfIff1S54seFI/PtyDuPNkzZ",
+            "Metadata": "gBI=",
+            "Provider": {
+                "ID": "12D3KooWSoSgVaUvoguDQZu1doytze9RgnnANwJoiLw7KUcAXq8i",
+                "Addrs": [
+                "/ip4/76.219.232.45/tcp/24888"
+                ]
+            }
+            },
+            {
+            "ContextID": "AXESIIVMIJ+VCHTZGl8Io8JebgortiwZPeGdWjG7/PMqQedI",
+            "Metadata": "kBKjaFBpZWNlQ0lE2CpYKAABgeIDkiAgOpmhnBIQKNzyU6ehjrfzmEA+e++NQ+z5mBjI6C7y1B5sVmVyaWZpZWREZWFs9W1GYXN0UmV0cmlldmFs9Q==",
+            "Provider": {
+                "ID": "12D3KooWEkQFhSUc17MNC4gimbRYakSSCmDiQwMLhcvToh7bsXbN",
+                "Addrs": [
+                "/ip4/112.216.168.43/tcp/8999"
+                ]
+            }
+            },
+            {
+            "ContextID": "YmFndXFlZXJha3ppdzRwaWxuZmV5ZGFtNTdlZ2RxZTRxZjR4bzVuZmxqZG56emwzanV0YXJtbWltdHNqcQ==",
+            "Metadata": "gBI=",
+            "Provider": {
+                "ID": "QmQzqxhK82kAmKvARFZSkUVS6fo9sySaiogAnx5EnZ6ZmC",
+                "Addrs": [
+                "/dns4/elastic.dag.house/tcp/443/wss"
+                ]
+            }
+            },
+            {
+            "ContextID": "YmFndXFlZXJhNWpnZWF6eXRhbWVpZnNwbmlocWk2NnFxejNlNnRzazRuM255Nmo3emxjeGFqcnh2YTNlcQ==",
+            "Metadata": "gBI=",
+            "Provider": {
+                "ID": "QmQzqxhK82kAmKvARFZSkUVS6fo9sySaiogAnx5EnZ6ZmC",
+                "Addrs": [
+                "/dns4/elastic.dag.house/tcp/443/wss"
+                ]
+            }
+            },
+            {
+            "ContextID": "YmFndXFlZXJhd3pjeDJ1YnF6M2E0eTJ3anRoZW90bmR1NGFiZDR2NGt6dWxlNzR4dWNvNjZyMmNkeWRycQ==",
+            "Metadata": "gBI=",
+            "Provider": {
+                "ID": "QmQzqxhK82kAmKvARFZSkUVS6fo9sySaiogAnx5EnZ6ZmC",
+                "Addrs": [
+                "/dns4/elastic.dag.house/tcp/443/wss"
+                ]
+            }
+            }
+        ]
+        }
+    ]
+}
+
+Here is an example of a smart contract on the Solana blockchain that interacts with the Interledger Protocol (ILP),
+checks hashes of data from the DHT table and matches them with data received from the CID in Helium.
+If the values match, a reward is awarded in Solana tokens:
+
+use anchor_lang::prelude::*;
+use anchor_lang::solana_program::system_program;
+use anchor_spl::token::{self, Mint, Token, TokenAccount};
+use ilp_sdk::ilp_client::IlpClient;
+use helium_sdk::helium_client::HeliumClient;
+
+declare_id!("your_program_id_here");
+
+#[program]
+pub mod data_verification {
+    use super::*;
+
+    pub fn verify_and_reward(ctx: Context<VerifyAndReward>, dht_hash: String, cid: String) -> ProgramResult {
+        let ilp_client = IlpClient::new("ilp_node_url");
+        let helium_client = HeliumClient::new("helium_api_url");
+
+        // Получение данных из таблицы DHT по хэшу
+        let dht_data = ilp_client.get_dht_data(&dht_hash)?;
+
+        // Получение данных из Helium по CID
+        let helium_data = helium_client.get_data_by_cid(&cid)?;
+
+        // Сравнение данных
+        if dht_data == helium_data {
+            // Начисление вознаграждения в токенах Solana
+            let reward_amount = 10_000_000; // 10 SOL
+            let cpi_accounts = token::Transfer {
+                from: ctx.accounts.user_token_account.to_account_info(),
+                to: ctx.accounts.reward_token_account.to_account_info(),
+                authority: ctx.accounts.user.to_account_info(),
+            };
+            let cpi_token_program = ctx.accounts.token_program.to_account_info();
+            let cpi_ctx = CpiContext::new(cpi_token_program, cpi_accounts);
+            token::transfer(cpi_ctx, reward_amount)?;
+        }
+
+        Ok(())
+    }
+}
+
+#[derive(Accounts)]
+pub struct VerifyAndReward<'info> {
+    #[account(mut)]
+    pub user: Signer<'info>,
+    #[account(mut)]
+    pub user_token_account: Account<'info, TokenAccount>,
+    #[account(mut)]
+    pub reward_token_account: Account<'info, TokenAccount>,
+    pub token_program: Program<'info, Token>,
+    pub system_program: Program<'info, System>,
+}
+
+
+The smart contract declares a verify_and_reward function that takes a hash of the data from the DHT table and the CID from Helium.
+
+Clients are being created to interact with the Interledger Protocol (ILP) and Helium.
+
+Data is obtained from the DHT table by hash using the ILP client.
+
+Data is obtained from Helium by CID using the Helium client.
+
+The obtained data is compared. If they match, a reward is awarded in Solana tokens.
+
+To calculate rewards, use the token::transfer instruction from the anchor_spl library, which transfers the specified number of tokens from the user account to the reward account.
+
+The VerifyAndReward structure defines the necessary accounts to execute the verify_and_reward function:
+user: The user account that is calling the function (must be signed in).
+user_token_account: user token account from which reward tokens will be debited.
+reward_token_account: token account to which reward tokens will be credited.
+token_program: Solana token program.
+system_program: Solana system program.
+Note that this example assumes the ilp_sdk and helium_sdk libraries to interface with the Interledger and Helium protocols, respectively. You will need to implement these libraries or find existing implementations to use them in your smart contract.
+
+Also remember to replace your_program_id_here with your actual program ID.
+
+Before deploying your smart contract, make sure you have your Solana development environment set up and the necessary dependencies such as Rust and Anchor Framework installed.
+
+Once the smart contract is deployed, you can call the verify_and_reward function, passing the hash of the data from the DHT table and the CID from Helium. The smart contract will check the data and issue a reward in Solana tokens if the data matches.
+
+
+It is necessary to rewrite this contract so that it can be connected by users of Helium networks on the Solana blockchain
+
+
+
+
+
+The family returns home by car. As they drive, a transparent car appears in which data is collected from sensors in the car and transmitted to the owner's phone. The balance of the wallet linked to the Dpus application is replenished. When they drive up to their house, their smart home system is automatically connected using Helium. The car should be parked in the garage, where sensors on the door record the processed data, which transmit the command to open, and compare them with the data of the driver, the car and the garage. After parking, the user receives a certain number of tokens for using their data from the Dpus application. Some of the funds go to car manufacturers, as this is part of the Internet of Things economy. The family then enters their home and uses various devices such as lighting, stove and microwave, kettle, refrigerator, vacuum cleaner, TV and computer that "produce" data. This data passes through various sensors and devices and is recorded in Helium applications connected to the Dpus data processing system. Those who use the applications receive a stable income from using their Solana tokens. In turn, the devices send their manufacturers a small amount of money for using their data. At the end of the Dpus screensaver and below the caption "Exclusive to Helium & Solana"
+
+An example in the video.
+
+dpusys@gmail.com
+
+https://twitter.com/dpus150715
+
+https://t.me/DEPUSY
+
+linktr.ee/dpusys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
